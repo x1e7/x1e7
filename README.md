@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=x1e7&theme=dark&hide_border=false&border=00FF88&background=0D0D0D&stroke=333333&ring=00FF88&fire=00FF88&currStreakNum=00FF88&sideNums=00DD66&currStreakLabel=00FF88&sideLabels=00DD66&dates=AAAAAA&border_radius=10&cache=reset" width="92%" />
-</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=SL1dee36&style=for-the-badge&color=brightgreen" alt="1"/>
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sl1dee36&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=x1e7&show_icons=true&theme=dark&hide_border=false&border_color=00FF88&bg_color=0D0D0D&title_color=00FF88&icon_color=00DD66&text_color=CCCCCC&border_radius=10&v=1" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1e7&layout=compact&theme=dark&hide_border=false&border_color=00FF88&bg_color=0D0D0D&title_color=00FF88&text_color=CCCCCC&border_radius=10&v=1" />
-</p>
+  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+  [![C#](https://img.shields.io/badge/C%23-02303A?style=for-the-badge&logo=csharp&logoColor=white)](https://www.csharp-lang.org/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  
+</div>
