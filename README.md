@@ -10,6 +10,3 @@
 </div>
 
 
-![Metrics](https://raw.githubusercontent.com/x1e7/infra-metrics-insight-renderer/main/metrics/profile.svg)
-
-<hr>
