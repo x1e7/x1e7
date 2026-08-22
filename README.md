@@ -8,3 +8,14 @@
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   
 </div>
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/8c063d69-8cd5-4aa4-b336-6dc47bfb1062.svg)](https://wakatime.com/@8c063d69-8cd5-4aa4-b336-6dc47bfb1062)
+
+</div>
+
+
+![Metrics](https://raw.githubusercontent.com/RAprogramm/infra-metrics-insight-renderer/main/metrics/profile.svg)
+
+<hr>
