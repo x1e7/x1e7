@@ -9,13 +9,7 @@
   
 </div>
 
-<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/8c063d69-8cd5-4aa4-b336-6dc47bfb1062.svg)](https://wakatime.com/@8c063d69-8cd5-4aa4-b336-6dc47bfb1062)
-
-</div>
-
-
-![Metrics](https://raw.githubusercontent.com/RAprogramm/infra-metrics-insight-renderer/main/metrics/profile.svg)
+![Metrics](https://raw.githubusercontent.com/x1e7/infra-metrics-insight-renderer/main/metrics/profile.svg)
 
 <hr>
